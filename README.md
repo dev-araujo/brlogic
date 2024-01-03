@@ -14,7 +14,7 @@
 
 ### 🎨 Resultado 
 
-- O resultado pode ser conferido :arrow_right: [**AQUI**](https://brlogic.dev-araujo.repl.co/)
+- O resultado pode ser conferido :arrow_right: [**AQUI**](https://brlogic.vercel.app/)
 <h1 align="center">
   
 ![2](https://user-images.githubusercontent.com/97068163/149625085-1fc6c49c-c14b-45ac-aebf-eb3e71699d75.png)
